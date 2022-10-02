@@ -291,3 +291,18 @@ li a {
     font-size: 20px;
     margin: 20px 0 40px 0;
 }
+
+.footer {
+    background-image: url(/image/Group\ 19.png);
+}
+
+.foot__logo {
+    font-size: 40px;
+}
+
+.foot__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+}
